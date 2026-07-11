@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "unstablesmpin.aternos.me:12544",
-    "port": 27586,
+    "ip": "unstablesmpin.aternos.me",
+    "port": 12544,
     "version": "",
     "try-creative": false
   },
